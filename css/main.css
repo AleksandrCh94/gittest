@@ -7,3 +7,8 @@ p {
     background-color: blue;
     text-align: auto;
 }
+
+h1 {
+    color: red;
+    background-color: green;
+}
